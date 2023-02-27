@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "Hit (The First Case)",
+    "image": "johnMulaneyKG",
+    "videoUrl": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.a8b87e49-d2c6-9a31-38a3-3630938e3f0c&ref_=atv_dp_share_mv&r=web"
+  },
+  {
+    "id": 2,
+    "title": "Tom Clancy's Jack Ryan - Season 1",
+    "image": "johnMulaneyKG",
+    "videoUrl": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.14ae96e0-98f1-ddad-2cd4-054743a97882&ref_=atv_dp_share_seas&r=web"
+  },
+  {
+    "id": 3,
+    "title": "Breathe: Into the Shadows – Season 2",
+    "image": "johnMulaneyKG",
+    "videoUrl": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.9bc3e271-2029-4b32-8bbf-6a55ce82e100&ref_=atv_dp_share_seas&r=web"
+  },
+  {
+    "id": 4,
+    "title": "Comicstaan - Season 3",
+    "image": "johnMulaneyKG",
+    "videoUrl": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.e8990cc1-7598-4b23-9eb3-6515f707a520&ref_=atv_dp_share_seas&r=web"
+  },
+  {
+    "id": 5,
+    "title": "The Family Man - Season 2",
+    "image": "johnMulaneyKG",
+    "videoUrl": "https://app.primevideo.com/detail?gti=amzn1.dv.gti.20bb765a-405b-250c-158b-c9979d16721a&ref_=atv_dp_share_seas&r=web"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "Black Panther",
+    "image": "johnMulaneyKG",
+    "videoUrl": "https://www.hotstar.com/1660010672"
+  },
+  {
+    "id": 2,
+    "title": "Avengers: Infinity War",
+    "image": "johnMulaneyKG",
+    "videoUrl": "https://www.hotstar.com/1660010677"
+  },
+  {
+    "id": 3,
+    "title": "Captain America: The First Avenger",
+    "image": "johnMulaneyKG",
+    "videoUrl": "https://www.hotstar.com/1660000034"
+  },
+  {
+    "id": 4,
+    "title": "Thor",
+    "image": "johnMulaneyKG",
+    "videoUrl": "https://www.hotstar.com/1660000044"
+  },
+  {
+    "id": 5,
+    "title": "Iron Man 3",
+    "image": "johnMulaneyKG",
+    "videoUrl": "https://www.hotstar.com/1660000042"
+  }
+]

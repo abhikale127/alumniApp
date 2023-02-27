@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "image": "americanGangster",
+    "title": "American Gangster",
+    "videoUrl":"https://www.youtube.com/watch?v=ar9d-svOkvo"
+  },
+  {
+    "id": 2,
+    "image": "breakingBad",
+    "title": "Breaking Bad",
+    "videoUrl": "https://www.youtube.com/watch?v=SMtJgdXj9U0"
+  },
+  {
+    "id": 3,
+    "image": "starwarsJedi",
+    "title": "Star Wars: The Last Jedi",
+    "videoUrl": "https://www.youtube.com/watch?v=vtdj4f2mRq8"
+  },
+  {
+    "id": 4,
+    "image": "guardians2",
+    "title": "Guardians of the Galaxy, Vol.2",
+    "videoUrl": "https://www.youtube.com/watch?v=iVwe90oJtB0"
+  },
+  {
+    "id": 5,
+    "image": "darkKnight",
+    "title": "The Dark Knight",
+    "videoUrl": "https://www.youtube.com/watch?v=vuPLwnCKZ4E"
+  },
+  {
+    "id": 6,
+    "image": "blackPanther",
+    "title": "Black Panther",
+    "videoUrl": "https://www.youtube.com/watch?v=8GVZUYQS6IQ"
+  }
+]

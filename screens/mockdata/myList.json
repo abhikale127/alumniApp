@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "image": "goodBye",
+    "title": "Goodbye",
+    "videoUrl": "https://www.netflix.com/in/title/81509545?s=a&trkid=13747225&t=wha&vlang=en&clip=81645035"
+  },
+  {
+    "id": 2,
+    "image": "johnMulaneyKG",
+    "title": "Khakee: The Bihar Chapter",
+    "videoUrl": "https://www.netflix.com/in/title/81290872?s=a&trkid=13747225&t=wha&vlang=en&clip=81642011"
+  },
+  {
+    "id": 3,
+    "image": "johnMulaneyKG",
+    "title": "Wednesday",
+    "videoUrl": "https://www.netflix.com/in/title/81231974?s=a&trkid=13747225&t=wha&vlang=en&clip=81611236"
+  },
+  {
+    "id": 4,
+    "image": "johnMulaneyKG",
+    "title": "The Big Bang Theory",
+    "videoUrl": "https://www.netflix.com/in/title/70143830?s=a&trkid=13747225&t=wha&vlang=en&clip=81031108"
+  },
+  {
+    "id": 5,
+    "image": "johnMulaneyKG",
+    "title": "Tenet",
+    "videoUrl": "https://www.netflix.com/in/title/81198930?s=a&trkid=13747225&t=wha&vlang=en&clip=81461263"
+  }
+]
